@@ -21,7 +21,7 @@ public class Ejemplo001 {
             cadenaFinal = String.format("%s%d", 
                     cadenaFinal,i);
         }
-        
+        //System.out.printf("%d",i);
         for (int i = 1; i < 11; i++) {
             cadenaFinal = String.format("%s%d", 
                     cadenaFinal,i);
